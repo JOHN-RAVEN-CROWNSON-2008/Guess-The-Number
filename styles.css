@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://st2.depositphotos.com/1062624/6571/i/450/depositphotos_65716775-stock-photo-abstract-blue-background-technology-background.jpg);
+    background-size: cover;
+    text-align: center;
+  }
+
+ input{
+    width: 30%;
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(138, 51, 153);
+  }
+  
+  p{
+    color: red;
+    font-size: xx-large;
+  }
+  
+  h1:hover{
+    color: purple;
+    font-size: 50px;
+    background-color: black;
+    font-family: fantasy;
+  }
+  
+  img:hover{
+    border-color: palevioletred;
+  }
+  button{
+    font-size: x-large;
+  }
